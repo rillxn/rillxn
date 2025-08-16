@@ -1,17 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador rilondev">
 
-<h3 align="center">Hi 👋, I'm Rilon! I am a student of Computer Science.</h3>
+<h3 align="center">Hi 👋, I'm Rilon Santos (TriCk)</h3>
 
-- 🌎 Hacking enthusiast student focused on offensive security {Red Team}
+- 🌎 Cybersecurity student focused on **Red Team & Offensive Security**  
+- 🦄 Interests & Skills: Python automation & exploit development, Web Application Security, Network Security, Penetration Testing, Malware Analysis  
+- 💌 Contact: rillon.goncalves@gmail.com
 
-- 🦄 Skills: **HTML, CSS, JavaScript, PHP, Shell Script, Python and Django**
-
-- 💼 Tools: **VSCode, Pycharm, Photoshop and Adobe XD**
-
-- 💌 If you want to chat with me, don't hesitate to send me a message.
- 
 <p align="left">
-<a href="https://twitter.com/_rylon" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="_rylon"/></a>
-<a href="https://t.me/ryoung" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="ryoung"/></a>
- <a href = "mailto:rilon@protonmail.com"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+<a href="https://github.com/rillxn" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://tryhackme.com/p/rillxn" target="blank"><img align="center" src="https://img.shields.io/badge/TryHackMe-FF7F50?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+<a href="https://www.hackthebox.com/home/users/profile/123456" target="blank"><img align="center" src="https://img.shields.io/badge/HackTheBox-008000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox"/></a>
+<a href="mailto:rillon.goncalves@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 </p>
